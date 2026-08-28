@@ -7,8 +7,8 @@ I specialize in building digital experiences with a thoughtful UX approach and h
 ###  What I do
 *    **Web & Mobile Applications:** Designing, engineering, and scaling intuitive, user-centric interfaces across multiple platforms.
 *    **Creator of Keeplink (map-based social network):** A personal project I designed and built from scratch. <br>
-    *   [Visit the Keeplink Website](https://keeplink.live)<br>
-    *   [Download the App](https://apps.apple.com/ua/app/keeplink-social-link-hub/id6785551614)
+       [Visit the Keeplink Website](https://keeplink.live)<br>
+       [Download the App](https://apps.apple.com/ua/app/keeplink-social-link-hub/id6785551614)
     
 ###  Tools & Tech Stack
 *   **Engineering:** React + TypeScript, React Native, Next.js, Vite
