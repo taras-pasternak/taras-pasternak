@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Taras Pasternak]
+# Hi there 👋 I'm Taras Pasternak
 
 **UX Designer & Design Engineer**
 I'm a multidisciplinary designer with **10+ years of experience** crafting digital products. 
@@ -7,7 +7,7 @@ I specialize in building digital experiences with a thoughtful UX approach and h
 ### 💡 What I do
 *   📱 **Web & Mobile Applications:** Designing, engineering, and scaling intuitive, user-centric interfaces across multiple platforms.
 *   🚀 **Creator of Kiplink (Pet Project):** A personal project I designed and built from scratch. 
-    *   🌐 [Visit the Kiplink Website](https://keeplink.live)
+    *   🌐 [Visit the Keeplink Website](https://keeplink.live)
     *   📲 [Download the App](https://apps.apple.com/ua/app/keeplink-social-link-hub/id6785551614))
     
 ### 🛠 Tools & Tech Stack
