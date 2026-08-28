@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Your Name]
+# Hi there 👋 I'm [Taras Pasternak]
 
 **UX Designer & Design Engineer**
 I'm a multidisciplinary designer with **10+ years of experience** crafting digital products. 
