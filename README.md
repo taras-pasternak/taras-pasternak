@@ -6,7 +6,7 @@ I specialize in building digital experiences with a thoughtful UX approach and h
 
 ### 💡 What I do
 *   📱 **Web & Mobile Applications:** Designing, engineering, and scaling intuitive, user-centric interfaces across multiple platforms.
-*   🚀 **Creator of Keeplink (Pet Project):** A personal project I designed and built from scratch. 
+*   🚀 **Creator of Keeplink (map-based social network):** A personal project I designed and built from scratch. 
     *   🌐 [Visit the Keeplink Website](https://keeplink.live)
     *   📲 [Download the App](https://apps.apple.com/ua/app/keeplink-social-link-hub/id6785551614)
     
